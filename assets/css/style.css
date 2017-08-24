@@ -1,0 +1,8 @@
+.jumbotron{
+	background-image: url(https://i.pinimg.com/originals/5a/fc/a2/5afca227d70c5133e67491d23a957889.jpg)
+}
+
+img {
+    opacity: 0.5;
+    filter: alpha(opacity=50); / For IE8 and earlier /
+}
